@@ -21,11 +21,13 @@ Clone the repository:
 Bash
 
 git clone [YOUR_REPOSITORY_URL]
+
 Install dependencies:
 
 Bash
 
 npm install
+
 Run the application:
 
 Bash
